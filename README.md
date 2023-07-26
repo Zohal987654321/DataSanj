@@ -16,3 +16,4 @@ Freelance Data Analyst in Upwork
 1. PYTHON
 2. EXCEL
 3. R
+4. Power BI
