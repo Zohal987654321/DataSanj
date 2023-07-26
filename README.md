@@ -1,5 +1,6 @@
 # DATA ANALYST
 
+![Data Analyst](C:\Users\Maiwa\OneDrive\Pictures\dataAnalyst_image.png)
 
 ## EDUCATION
 
