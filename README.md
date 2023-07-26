@@ -1,7 +1,6 @@
 # Data Analyst
 
-
-##Education
+###Education
 
 Graduate Certificate in Datta Science
 
