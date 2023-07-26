@@ -3,7 +3,7 @@
 
 ## EDUCATION
 
-Graduate Certificate in Datta Science
+Graduate Certificate in Data Science
 
 
 ## WORK EXPERIENCE
@@ -19,3 +19,16 @@ Freelance Data Analyst in Upwork
    
    
 ### 2. EXCEL DASHBOARD
+
+
+
+###3. POWER QUERY IN EXCEL
+
+
+
+###4.DASHBOARD IN POWER BI
+
+
+
+
+###5. DATA MINING, ANALYSIS , MODELLING AND PREDICTION IN R
