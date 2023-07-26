@@ -1,18 +1,21 @@
 # DATA ANALYST
 
 
-### EDUCATION
+## EDUCATION
 
 Graduate Certificate in Datta Science
 
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
 Freelance Data Analyst in Upwork
 
 
-### PROJECTS
-1. PYTHON
-2. EXCEL
-3. R
-4. Power BI
+## PROJECTS
+### 1. Monkeypox data analysis to know its Distribution and Characteristics (PYTHON)
+
+   
+   
+   
+   
+### 2. EXCEL DASHBOARD
