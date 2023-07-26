@@ -1,17 +1,17 @@
-# Data Analyst
+# DATA ANALYST
 
-Education
+###EDUCATION
 
 Graduate Certificate in Datta Science
 
 
-Work Experience
+###WORK EXPERIENCE
 
 Freelance Data Analyst in Upwork
 
 
 
-PROJECTS
+###PROJECTS
 1. PYTHON
 2. EXCEL
 3. R
